@@ -1,1 +1,1 @@
-"# liftlog" 
+Public repository of lift log
